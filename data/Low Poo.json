@@ -9,13 +9,13 @@
     "password": "none",
     "records": [
         {
-            "user": "IGNORE",
+            "user": "o",
             "link": "https://youtu.be/m8P-VwfSEik",
             "percent": 100,
             "hz": 165
         },
         {
-            "user": "IGNORE PART 2",
+            "user": "x",
             "link": "fakeurl",
             "percent": 100,
             "hz": 6767
