@@ -19,6 +19,12 @@
             "link": "https://youtu.be/njnBhvsAO24",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Trey",
+            "link": "https://youtube.com/watch?v=tQuypBPaaow&si=ki0QX7O_EPKGAX6R",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
