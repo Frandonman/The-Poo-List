@@ -9,16 +9,16 @@
     "password": "none",
     "records": [
         {
-            "user": "IGNORE",
-            "link": "fakeurl",
+            "user": "TrainWave",
+            "link": "https://youtu.be/m8P-VwfSEik",
             "percent": 100,
-            "hz": 360
+            "hz": 165
         },
         {
             "user": "IGNORE PART 2",
             "link": "fakeurl",
             "percent": 100,
-            "hz": 120
+            "hz": 6767
         }
     ]
 }
