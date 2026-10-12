@@ -1,1 +1,24 @@
-
+{
+    "id": 150453920,
+    "name": "Devil Pootex",
+    "author": "brixdup",
+    "creators": ["brixdup"],
+    "verifier": "brixdup",
+    "verification": "https://youtu.be/e6aIudw1WpI",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "TrainWave",
+            "link": "https://youtu.be/5a9zPj13U4g",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Avirx",
+            "link": "https://youtu.be/njnBhvsAO24",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
