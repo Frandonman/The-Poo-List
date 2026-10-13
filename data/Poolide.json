@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "none",
     "records": [
-
+        {
+            "user": "TrainWave",
+            "link": "https://youtu.be/ot8G5sP9Nas",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
