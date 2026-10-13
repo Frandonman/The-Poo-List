@@ -1,1 +1,24 @@
-
+{
+    "id": 150511027,
+    "name": "Poopken Circles",
+    "author": "BennnnnnyBoi",
+    "creators": ["BennnnnnyBoi"],
+    "verifier": "BennnnnnyBoi",
+    "verification": "https://youtu.be/OLB2JTXOc1c/",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "TrainWave",
+            "link": "https://youtu.be/gaW8NNpgaz4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Trey",
+            "link": "https://youtube.com/shorts/-R-9a3aAis8?si=NDL30Semcu8J6CDn",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
