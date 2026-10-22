@@ -1,1 +1,24 @@
-
+{
+    "id": 150984403,
+    "name": "Glungus Pooventures",
+    "author": "BennnnnnyBoi",
+    "creators": ["BennnnnnyBoi"],
+    "verifier": "BennnnnnyBoi",
+    "verification": "https://youtu.be/L7KbVkGvW3g?si=J6O2LRNNaS1vW-bL",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "Avirx",
+            "link": "https://youtu.be/7W_wYfaIZe8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Trainwave",
+            "link": "https://youtu.be/P5ZM10NHLwg",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
