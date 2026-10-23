@@ -1,1 +1,24 @@
-
+{
+    "id": 151096064,
+    "name": "Silent Poostep",
+    "author": "BennnnnnyBoi",
+    "creators": ["BennnnnnyBoi"],
+    "verifier": "BennnnnnyBoi",
+    "verification": "https://youtu.be/5HanUhRIjro",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "TrainWave",
+            "link": "https://youtu.be/ntqDHtPTpLo",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Avirx",
+            "link": "https://youtu.be/ZNgwfdkzd14",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
