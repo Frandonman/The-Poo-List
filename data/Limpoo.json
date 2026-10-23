@@ -1,1 +1,18 @@
-
+{
+    "id": 151045250,
+    "name": "Limpoo",
+    "author": "BennnnnnyBoi",
+    "creators": ["BennnnnnyBoi"],
+    "verifier": "BennnnnnyBoi",
+    "verification": "https://youtu.be/IWzU6nNz5us",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "Avirx",
+            "link": "https://youtu.be/p59RPPt7OzQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
