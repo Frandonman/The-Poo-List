@@ -1,1 +1,18 @@
-
+{
+    "id": 152402115,
+    "name": "Poovity",
+    "author": "Avirx",
+    "creators": ["Avirx"],
+    "verifier": "Avirx",
+    "verification": "https://youtu.be/D3opfh-Ed6Q",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "TrainWave",
+            "link": "https://youtu.be/ShyYM8bsuMY",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
