@@ -1,1 +1,18 @@
-
+{
+    "id": 152401756 ,
+    "name": "Poonder",
+    "author": "Ultragaming",
+    "creators": ["Ultragaming"],
+    "verifier": "Ultragaming",
+    "verification": "https://youtube.com/shorts/4TFeTNk08RA?is=gfJWEbLmSHZKNdWc",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+        {
+            "user": "Trainwave",
+            "link": "https://youtu.be/uQfVvxSf1KU",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
