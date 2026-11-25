@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "none",
     "records": [
+       {
+            "user": "Avirx",
+            "link": "https://youtu.be/C3H6foHrIHMvvvv",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
